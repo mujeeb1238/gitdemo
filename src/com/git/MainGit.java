@@ -8,5 +8,7 @@ public class MainGit {
 		System.out.println("hello world");
 	}
 	
-	
+	public static void methodOne(){
+		System.out.println("");
+	}
 }
